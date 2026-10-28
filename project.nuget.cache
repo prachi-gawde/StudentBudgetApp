@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bt0fiaZ5sss=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prach\\StudentBudgetApp\\StudentBudgetApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prach\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.28\\microsoft.entityframeworkcore.6.0.28.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.28\\microsoft.entityframeworkcore.abstractions.6.0.28.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.28\\microsoft.entityframeworkcore.analyzers.6.0.28.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.28\\microsoft.entityframeworkcore.relational.6.0.28.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\prach\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.3\\pomelo.entityframeworkcore.mysql.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
